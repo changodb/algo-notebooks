@@ -7,4 +7,4 @@ Current Workflow:
 3. Stacks & Queues
 4. Sorts.py
 
-** WIP - expect frequent updates
+### WIP - expect frequent updates
